@@ -6,3 +6,6 @@ SPA website created in React with Create React App. This is the newest version o
   * React JS (hooks, react router)
   * Styled Components
   * React/Redux
+
+
+### App is hosted on Netlify - [preview(https://musing-wilson-52b78c.netlify.app/)]
