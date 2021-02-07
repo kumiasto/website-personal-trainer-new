@@ -8,4 +8,4 @@ SPA website created in React with Create React App. This is the newest version o
   * React/Redux
 
 
-### App is hosted on Netlify - [preview(https://musing-wilson-52b78c.netlify.app/)]
+### App is hosted on Netlify - [preview](https://musing-wilson-52b78c.netlify.app/)
